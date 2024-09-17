@@ -1,4 +1,4 @@
-package com.example.appcadastro;
+package com.example.AppSorteio;
 
 import android.os.Bundle;
 import android.view.View;

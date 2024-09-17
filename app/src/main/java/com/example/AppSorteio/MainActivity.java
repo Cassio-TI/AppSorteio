@@ -6,6 +6,9 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.appcadastro.R;
+
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
